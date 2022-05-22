@@ -10,7 +10,6 @@ pkg inatall python- python2
 pip install mechanize
 pip install requests
 pip install bs4
-rm -rf MR-AHSAN
-git clone https://github.com/Mr-Ahsan-Alee/MR-AHSAN
-cd MR-AHSAN
+git clone https://github.com/Yanzyaha/cloning
+cd cloning
 python AHSAN.py
